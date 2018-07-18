@@ -1,1 +1,5 @@
 devops
+digital lync
+aws 
+full stack
+blockchain
